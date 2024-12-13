@@ -1,0 +1,1 @@
+Empty file for users to have the img/ folder. 
